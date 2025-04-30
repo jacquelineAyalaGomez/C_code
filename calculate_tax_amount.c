@@ -1,6 +1,4 @@
 #include <stdio.h>
-// Student ID: 801309149
-
 /*
 Tax Rate:   Income Bracket:
 12%         $0       - $9,275
